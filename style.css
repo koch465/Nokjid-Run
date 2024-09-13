@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+#board {
+  background-image: url("image/Bg.jpg");
+  background-size: cover;
+  border-bottom: 20px solid brown;
+}
+button {
+  background-color: lightgreen;
+  color: red;
+  border: none;
+  border-radius: 15px;
+  height: 45px;
+  width: 160px;
+  font-size: 18px;
+  font-weight: 600px;
+  margin-top: 20px;
+}
